@@ -1,4 +1,4 @@
-# Course-Registration-System
+# Course Registration System
 
 ## Overview
 A Java-based course registration and academic management system developed using Object-Oriented Programming principles.
@@ -6,9 +6,9 @@ A Java-based course registration and academic management system developed using 
 ## Features
 - Student course registration
 - Faculty management
-- Course enrollment system
-- Academic record tracking
+- Course enrollment tracking
 - Role-based functionalities
+- Academic record management
 
 ## Tech Stack
 - Java
@@ -19,6 +19,12 @@ A Java-based course registration and academic management system developed using 
 - Inheritance
 - Polymorphism
 - File Handling
+
+## Project Structure
+- Course.java
+- User.java
+- Professor_func.java
+- Administrator_func.java
 
 ## Author
 Arpit Dabas
